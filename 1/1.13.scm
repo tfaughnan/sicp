@@ -22,6 +22,6 @@
 ;   => |(\phi^{n} - \psi^{n} - \phi^{n}) / \sqrt{5}| < 1/2
 ;   => |\psi^{n}) / \sqrt{5}| < 1/2
 ;   => |\psi^{n})| < \sqrt{5} / 2
-;   We know -1 < \psi < 0 => 0 < |\psi^{n}| < 1 and 1 < \sqrt{5} / 1.
+;   We know -1 < \psi < 0 => 0 < |\psi^{n}| < 1 and 1 < \sqrt{5} / 2.
 
 (print "QED")
