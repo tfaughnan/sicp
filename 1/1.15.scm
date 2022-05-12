@@ -2,8 +2,8 @@
 ;    This can be found by computing \lceil \log_{3}(10x) \rceil for input x,
 ;    or of course by tracing the process manually.
 
-; b) Space: O(log3(n))
-;    Time: O(log3(n))
+; b) Space: O(log(n))
+;    Time: O(log(n))
 
 (define (cube x)
   (* x x x))
